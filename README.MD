@@ -1,0 +1,7 @@
+# Django blog
+This blog is made from Django 5 by example book by Antonio Melé.
+
+This is a simple blog application built with Django.
+- Sitemap and RSS feed are included.
+- Mail to share posts is also included.
+- Comments in post are included.
